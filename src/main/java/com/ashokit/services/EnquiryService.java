@@ -2,8 +2,8 @@ package com.ashokit.services;
 
 import java.util.List;
 
-import com.ashokit.DTO.DashboardDTO;
-import com.ashokit.DTO.EnquiryDTO;
+import com.ashokit.dto.DashboardDTO;
+import com.ashokit.dto.EnquiryDTO;
 
 public interface EnquiryService {
 	

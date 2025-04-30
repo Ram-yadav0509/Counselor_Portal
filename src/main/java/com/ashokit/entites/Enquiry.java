@@ -52,6 +52,6 @@ public class Enquiry {
 		
 	@ManyToOne
 	@JoinColumn(name = "COUNSELLOR_ID")
-	private Counsellor counsellorId;
+	private Counsellor counsellor;
 
 }

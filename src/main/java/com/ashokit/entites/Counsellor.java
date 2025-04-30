@@ -22,7 +22,7 @@ public class Counsellor {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	@Column(name = "COUNSELLOR_ID")
-	private Integer counselloId;
+	private Integer counsellorId;
 
 	@Column(name = "COUNSELLOR_NAME")
 	private String counsellorName;
@@ -38,6 +38,6 @@ public class Counsellor {
 
 	@CreationTimestamp
 	@Column(name = "DATE_CREATED")
-	private LocalDate dataCreated;
+	private LocalDate dateCreated;
 
 }
