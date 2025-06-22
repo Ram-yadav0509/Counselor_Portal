@@ -32,10 +32,10 @@ This is a web-based project developed, counsellors manage student enquiries effe
 ![Registration Page](images/Login.png)
 
 ### Add Enquiry Page Snapshot 
-![Registration Page](images/AddEnquiry.png)
+![Registration Page](images/Add_Enquiry.png)
 
 ### Dashborad Page Snapshot 
 ![Registration Page](images/Dashboard.png)
 
 ### View All Enquires Page Snapshot 
-![Registration Page](images/viewenquires.png)
+![Registration Page](images/view_enquires.png)
