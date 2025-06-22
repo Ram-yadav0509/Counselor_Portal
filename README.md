@@ -25,6 +25,11 @@ This is a web-based project developed, counsellors manage student enquiries effe
    ```bash
    git clone https://github.com/Ram-yadav0509/Counselor_Portal/tree/main/src/main/java/com/ashokit
 
+Images of this project:
+
+## Project Directory Structure
+![Project Directory Image](images/project_directory.png)
+
 ### Registration Page Snapshot
 ![Registration Page](images/Register.png)
 
@@ -39,3 +44,6 @@ This is a web-based project developed, counsellors manage student enquiries effe
 
 ### View All Enquires Page Snapshot 
 ![Registration Page](images/view_enquires.png)
+
+
+
