@@ -24,3 +24,18 @@ This is a web-based project developed, counsellors manage student enquiries effe
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ram-yadav0509/Counselor_Portal/tree/main/src/main/java/com/ashokit
+
+### Registration Page Snapshot
+![Registration Page](images/Register.png)
+
+### Login Page Snapshot 
+![Registration Page](images/Login.png)
+
+### Add Enquiry Page Snapshot 
+![Registration Page](images/AddEnquiry.png)
+
+### Dashborad Page Snapshot 
+![Registration Page](images/Dashboard.png)
+
+### View All Enquires Page Snapshot 
+![Registration Page](images/viewenquires.png)
